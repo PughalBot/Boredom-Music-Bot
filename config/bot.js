@@ -1,0 +1,17 @@
+imodule.exports = {
+    emojis: {
+        off: ':x:',
+        error: ':warning:',
+        queue: ':bar_chart:',
+        music: ':musical_note:',
+        success: ':white_check_mark:',
+    },
+
+    discord: {
+        token: ' bot token ',
+        prefix: '/',
+        activity: 'PLAYING',
+    },
+
+    filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
+};
